@@ -52,6 +52,12 @@ git push origin <branch-name>
 
 **9.** **Congratulations!** Sit and relax, you've made a successful contribution.
 
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/richDotCom99/Competitive-Coding/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
 ## REPO STATUS
 
 ![GitHub Issues Open](https://img.shields.io/github/issues/richDotCom99/Competitive-Coding?style=for-the-badge&color=green)
