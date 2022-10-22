@@ -51,3 +51,27 @@ git push origin <branch-name>
 **8.** Create a [Pull Request/PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
 **9.** **Congratulations!** Sit and relax, you've made a successful contribution.
+
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/richDotCom99/Competitive-Coding/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
+## REPO STATUS
+
+![GitHub Issues Open](https://img.shields.io/github/issues/richDotCom99/Competitive-Coding?style=for-the-badge&color=green)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/richDotCom99/Competitive-Coding?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/richDotCom99/Competitive-Coding?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/richDotCom99/Competitive-Coding?style=for-the-badge&color=brightgreen)
+
+## Our Contributors
+
+<a href="https://github.com/richDotCom99/Competitive-Coding/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=richDotCom99/Competitive-Coding" />
+</a>
+
+<br>
+<div align="center">
+Show some ❤️ by starring this awesome repository!
+</div>
